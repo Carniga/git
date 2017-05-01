@@ -1,0 +1,11 @@
+git is version control
+
+synchronized between many different place
+
+
+tell it what files you are interested in keeping track of
+compile a list
+then say 'this list is the version I want to put out'
+put a little message on it and store it where you want it'
+
+s
